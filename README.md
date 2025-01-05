@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CloudCrafter
+- 👋 Hi, I’m Kishor Kumar, also known as Karthik.
 - 👀 I’m interested in "Exploring the vast world of cloud technologies, crafting innovative solutions with AI and Machine Learning"
 - 🌱 I’m currently learning "DevOps practices, advanced AWS services, and diving deeper into the realm of machine learning algorithms"
 - 💞️ I’m looking to collaborate on "Exciting projects that involve cloud architecture, DevOps automation, and pushing the boundaries of AI applications"
