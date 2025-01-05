@@ -7,6 +7,6 @@
 - ⚡ Fun fact: "OpsWorks is the maestro orchestrating your infrastructure, turning complex deployments into a harmonious symphony of seamless configurations"
 
 <!---
-CloudCrafterAI/CloudCrafterAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CloudCrafter/CloudCrafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
